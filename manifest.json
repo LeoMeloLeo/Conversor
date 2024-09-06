@@ -1,0 +1,13 @@
+{
+    "name": "Flex",
+    "start_url": "/Conversor",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/iconeimg.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]    
+}
